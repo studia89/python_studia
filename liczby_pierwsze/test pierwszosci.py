@@ -9,7 +9,6 @@ def czy_pierwsza(liczba : int):
             return False
     return True
 
-
 if __name__ == '__main__':
     liczba = int(input())
     wynik = czy_pierwsza(liczba)
